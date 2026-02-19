@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "41167edd-47ae-4564-8a5f-75daa5cee051",
+    "Name": "UsrYatchTest",
+    "ModifiedOnUtc": "\/Date(1771487569000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Test Process",
+    "DependsOn": []
+  }
+}
