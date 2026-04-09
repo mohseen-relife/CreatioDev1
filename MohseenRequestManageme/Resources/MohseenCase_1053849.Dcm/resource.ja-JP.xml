@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Request Processing" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.AddRights.Caption" Value="追加する権限リスト" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="フィルターの時間を考慮" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="オブジェクトは条件を満たします" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="削除する権限リスト" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="オブジェクト" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Account.Caption" Value="企業" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="カテゴリ" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="優先度" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="アクティビティ結果" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Application.Caption" Value="アプリケーション" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Case.Caption" Value="ケース" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Change.Caption" Value="変更" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Contact.Caption" Value="連絡先" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Contract.Caption" Value="契約" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="タスクId" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Document.Caption" Value="ドキュメント" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Duration.Caption" Value="期間" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="期間" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="実行状況" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.FinApplication.Caption" Value="アプリケーション" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Incident.Caption" Value="インシデント" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="ステップに関する情報" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Invoice.Caption" Value="請求書" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="完了済みの活動" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Lead.Caption" Value="リード" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Listing.Caption" Value="一覧表示" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Opportunity.Caption" Value="商談" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Order.Caption" Value="受注" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.OwnerId.Caption" Value="担当者" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Problem.Caption" Value="問題" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Project.Caption" Value="プロジェクト" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Property.Caption" Value="プロパティ" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.QueueItem.Caption" Value="キューアイテム" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Recommendation.Caption" Value="推奨" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Release.Caption" Value="リリース" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="事前に担当者に通知する" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="担当者に事前に通知する (期間)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Requests.Caption" Value="リクエスト" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="実行ページを自動的に表示" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="カレンダーで表示" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.StartIn.Caption" Value="次で実行を開始" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="(期間) で実行を開始" />
+		</Items>
+	</Group>
+</Resources>

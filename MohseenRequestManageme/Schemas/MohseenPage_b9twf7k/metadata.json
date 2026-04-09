@@ -1,0 +1,37 @@
+= MetaData.Schema.UId "bf6603f3-34dd-47d3-a43b-75ec9ca18764"
+= MetaData.Schema.A2 "MohseenPage_b9twf7k"
+= MetaData.Schema.A5 "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7"
++ MetaData.Schema.B2 {
+  "UId": "ffbaccfd-3257-6a44-69be-c204cc86563f",
+  "A2": "ListWidget_xgcprnm_title",
+  "A3": "bf6603f3-34dd-47d3-a43b-75ec9ca18764",
+  "A4": "bf6603f3-34dd-47d3-a43b-75ec9ca18764",
+  "A5": "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7"
+}
++ MetaData.Schema.B2 {
+  "UId": "458c0344-823d-6217-f176-b00b27bb7c8c",
+  "A2": "IndicatorWidget_m4hf58r_template",
+  "A3": "bf6603f3-34dd-47d3-a43b-75ec9ca18764",
+  "A4": "bf6603f3-34dd-47d3-a43b-75ec9ca18764",
+  "A5": "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7"
+}
++ MetaData.Schema.B2 {
+  "UId": "227d2f35-53e4-46da-80c0-cc58c1db2295",
+  "A2": "IndicatorWidget_m4hf58r_title",
+  "A3": "bf6603f3-34dd-47d3-a43b-75ec9ca18764",
+  "A4": "bf6603f3-34dd-47d3-a43b-75ec9ca18764",
+  "A5": "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7"
+}
+~ MetaData.Schema.B2 [
+  "ffbaccfd-3257-6a44-69be-c204cc86563f",
+  "458c0344-823d-6217-f176-b00b27bb7c8c",
+  "227d2f35-53e4-46da-80c0-cc58c1db2295"
+]
+= MetaData.Schema.B6 "d31e52bd-dbd6-40b4-b210-7a17dd9331c1"
+= MetaData.Schema.B8 "8.3.2.4199"
++ MetaData.Schema.B10 "{\"DashboardsClientUnitSchemaUId\":\"efdbfcee-e893-4e31-848b-13a586a278d6\",\"DashboardsElementName\":\"Dashboards\",\"DashboardsEntitySchemaName\":\"MohseenRequests\"}"
+= MetaData.Schema.HD1 "eb4d4a67-25d8-fcfa-7851-c4c91efb7b9c"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:1,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
+- MetaData.Schema.HD2
++ MetaData.Schema.B7 false

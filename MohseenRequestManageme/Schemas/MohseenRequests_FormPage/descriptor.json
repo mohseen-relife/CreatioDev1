@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9e1472ad-1231-4458-9663-35cbb19055b7",
+    "Name": "MohseenRequests_FormPage",
+    "ModifiedOnUtc": "\/Date(1775633844000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests form page",
+    "DependsOn": []
+  }
+}

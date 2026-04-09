@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "667f993d-04e8-4e2a-95db-6bc05e8b5772",
+    "Name": "MohseenRequestsBusinessRule",
+    "ModifiedOnUtc": "\/Date(1774423091000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requests (Business rules)",
+    "DependsOn": []
+  }
+}

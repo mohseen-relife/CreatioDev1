@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bf6603f3-34dd-47d3-a43b-75ec9ca18764",
+    "Name": "MohseenPage_b9twf7k",
+    "ModifiedOnUtc": "\/Date(1775125814000)\/",
+    "Parent": {
+      "UId": "eb4d4a67-25d8-fcfa-7851-c4c91efb7b9c",
+      "Name": "BaseDashboardTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Request  dashboard",
+    "DependsOn": []
+  }
+}

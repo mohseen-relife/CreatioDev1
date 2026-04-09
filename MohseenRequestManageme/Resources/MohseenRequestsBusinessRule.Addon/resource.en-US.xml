@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.2a60e356-9f60-8914-8da8-f53d5a701b30.Caption" Value="Make elements required: Description" />
+			<Item Name="AddonConfig.Rules.d7565b28-14ae-086e-d2b6-1a8f74d1f998.Caption" Value="Make elements read-only: Applicant" />
+			<Item Name="Caption" Value="Requests (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

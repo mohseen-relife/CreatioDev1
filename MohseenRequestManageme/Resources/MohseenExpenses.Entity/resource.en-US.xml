@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Expenses" />
+			<Item Name="Columns.MohseenAmount.Caption" Value="Amount" />
+			<Item Name="Columns.MohseenComments.Caption" Value="Commentes" />
+			<Item Name="Columns.MohseenImported.Caption" Value="Imported" />
+			<Item Name="Columns.MohseenRequestExpenseType.Caption" Value="Request Expense Type" />
+			<Item Name="Columns.MohseenRequst.Caption" Value="Request" />
+		</Items>
+	</Group>
+</Resources>

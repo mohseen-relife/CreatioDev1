@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Request Processing" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.AddRights.Caption" Value="Elenco diritti da aggiungere" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Considera tempo nel filtro" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="L'oggetto soddisfa la condizione" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="Elenco diritti da eliminare" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Oggetto" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Account.Caption" Value="Azienda" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="Categoria" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priorità" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="Risultato dell'attività" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Application.Caption" Value="Applicazione" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Case.Caption" Value="Caso" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Change.Caption" Value="Modifica" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Contact.Caption" Value="Contatto" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Contract.Caption" Value="Contratto" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="Id attività" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Document.Caption" Value="Documento" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Duration.Caption" Value="Durata" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Durata (periodo)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Contesto di esecuzione" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.FinApplication.Caption" Value="Applicazione" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Incident.Caption" Value="Incidente" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Informazioni sulla fase" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Invoice.Caption" Value="Fattura" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Attività completata" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Listing.Caption" Value="Listati" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Opportunity.Caption" Value="Opportunità" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Order.Caption" Value="Ordine" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.OwnerId.Caption" Value="Responsabile" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Problem.Caption" Value="Problema" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Project.Caption" Value="Progetto" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Property.Caption" Value="Proprietà" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.QueueItem.Caption" Value="Elemento della coda" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Recommendation.Caption" Value="Raccomandazione" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Release.Caption" Value="Rilascio" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="Ricorda al responsabile in anticipo" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="Ricorda al responsabile in anticipo (periodo)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.Requests.Caption" Value="Richiesta" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Mostra pagina di esecuzione automaticamente" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="Mostra in calendario" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.StartIn.Caption" Value="Inizia esecuzione in" />
+			<Item Name="Stages.Stage3.Elements.DcmElement2.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Inizio esecuzione in (periodo di tempo)" />
+		</Items>
+	</Group>
+</Resources>

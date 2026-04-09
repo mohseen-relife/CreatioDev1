@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requests" />
+			<Item Name="Columns.MohseenApplicant.Caption" Value="Applicant" />
+			<Item Name="Columns.MohseenCategory.Caption" Value="Category" />
+			<Item Name="Columns.MohseenDescription.Caption" Value="Description" />
+			<Item Name="Columns.MohseenExpensesTotal.Caption" Value="Expenses , Total" />
+			<Item Name="Columns.MohseenName.Caption" Value="Number" />
+			<Item Name="Columns.MohseenOwner.Caption" Value="Owner" />
+			<Item Name="Columns.MohseenStatus.Caption" Value="Status" />
+			<Item Name="Columns.MohseenSubCategory.Caption" Value="SubCategory" />
+		</Items>
+	</Group>
+</Resources>

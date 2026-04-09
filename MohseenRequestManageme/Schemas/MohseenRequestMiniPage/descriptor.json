@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b7fcf9d-8063-49c3-9a49-e1db0b8d0a3d",
+    "Name": "MohseenRequestMiniPage",
+    "ModifiedOnUtc": "\/Date(1774861949000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests Mini page",
+    "DependsOn": []
+  }
+}

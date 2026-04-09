@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Request  dashboard" />
+			<Item Name="LocalizableStrings.IndicatorWidget_m4hf58r_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_m4hf58r_title.Value" Value="My Completed Request" />
+			<Item Name="LocalizableStrings.ListWidget_xgcprnm_title.Value" Value="My Completed Requests" />
+		</Items>
+	</Group>
+</Resources>

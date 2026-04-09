@@ -1,5 +1,6 @@
 <Project>
 	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/MohseenRequestManageme/Schemas/Activity/Activity.cs" Condition="Exists('$(PkgPath)/MohseenRequestManageme/Schemas/Activity/Activity.cs')" />
 		<Compile Include="$(PkgPath)/MohseenRequestManageme/Schemas/MohseenExpenses/MohseenExpenses.cs" Condition="Exists('$(PkgPath)/MohseenRequestManageme/Schemas/MohseenExpenses/MohseenExpenses.cs')" />
 		<Compile Include="$(PkgPath)/MohseenRequestManageme/Schemas/MohseenRequestCategory/MohseenRequestCategory.cs" Condition="Exists('$(PkgPath)/MohseenRequestManageme/Schemas/MohseenRequestCategory/MohseenRequestCategory.cs')" />
 		<Compile Include="$(PkgPath)/MohseenRequestManageme/Schemas/MohseenRequestExpenseType/MohseenRequestExpenseType.cs" Condition="Exists('$(PkgPath)/MohseenRequestManageme/Schemas/MohseenRequestExpenseType/MohseenRequestExpenseType.cs')" />

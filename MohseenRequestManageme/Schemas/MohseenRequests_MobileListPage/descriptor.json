@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2e2618ac-6836-48bf-95cd-7ac5a4fa7512",
+    "Name": "MohseenRequests_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1773170604000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests mobile list page",
+    "DependsOn": []
+  }
+}

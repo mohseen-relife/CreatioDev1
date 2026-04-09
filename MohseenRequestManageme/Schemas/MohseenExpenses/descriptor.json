@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c48d497b-b1a2-4a93-b43a-b847532232c5",
+    "Name": "MohseenExpenses",
+    "ModifiedOnUtc": "\/Date(1775546109000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Expenses",
+    "DependsOn": []
+  }
+}

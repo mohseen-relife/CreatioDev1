@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2df62d0e-3c79-4b12-9711-f01cadf1fc51",
+    "Name": "MohseenRequests_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1774361592000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requests form page (Business rules)",
+    "DependsOn": []
+  }
+}

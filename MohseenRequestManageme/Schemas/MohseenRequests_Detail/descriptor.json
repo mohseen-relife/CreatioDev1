@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "baed5b40-b9bc-4e7e-b76c-96e369e07ef5",
+    "Name": "MohseenRequests_Detail",
+    "ModifiedOnUtc": "\/Date(1773170604000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests detail",
+    "DependsOn": []
+  }
+}

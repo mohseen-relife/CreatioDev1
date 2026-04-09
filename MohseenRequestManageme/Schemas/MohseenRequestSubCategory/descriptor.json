@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d8b0b8aa-711b-4a43-9047-af6f303755ee",
+    "Name": "MohseenRequestSubCategory",
+    "ModifiedOnUtc": "\/Date(1775546084000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Request SubCategory",
+    "DependsOn": []
+  }
+}

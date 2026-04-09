@@ -1,0 +1,8 @@
+﻿{
+  "Properties": {
+    "CreatedInVersion": "8.3.2.4199",
+    "Group": "DashboardPage",
+    "OptionalProperties": "{\"DashboardsClientUnitSchemaUId\":\"efdbfcee-e893-4e31-848b-13a586a278d6\",\"DashboardsElementName\":\"Dashboards\",\"DashboardsEntitySchemaName\":\"MohseenRequests\"}",
+    "SchemaType": "AngularSchema"
+  }
+}

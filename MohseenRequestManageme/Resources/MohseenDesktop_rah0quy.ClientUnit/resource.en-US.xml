@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Request Desktop" />
+			<Item Name="LocalizableStrings.Button_icme3uo_caption.Value" Value="Create new request" />
+			<Item Name="LocalizableStrings.ChartWidget_d86n65d_series_0.Value" Value="Expenses" />
+			<Item Name="LocalizableStrings.ChartWidget_d86n65d_title.Value" Value="Total expense sum by subcategory" />
+			<Item Name="LocalizableStrings.Label_vemlyk0_caption.Value" Value="Hello [#Current user.Recipient Name#]!" />
+		</Items>
+	</Group>
+</Resources>

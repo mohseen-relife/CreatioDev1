@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5e4a6748-50a4-445e-97a5-e4ed3d129a74",
+    "Name": "MohseenRequestCategory",
+    "ModifiedOnUtc": "\/Date(1775546128000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Request Category",
+    "DependsOn": []
+  }
+}

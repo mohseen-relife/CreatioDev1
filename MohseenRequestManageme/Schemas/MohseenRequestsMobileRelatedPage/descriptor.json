@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "36a3822d-1347-483c-bcd7-3b9541b70026",
+    "Name": "MohseenRequestsMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1773170604000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requests (Mobile page settings)",
+    "DependsOn": []
+  }
+}

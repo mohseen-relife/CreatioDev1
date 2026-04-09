@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2f4ca987-544b-4943-86e4-e92270681c51",
+    "Name": "MohseenRequestsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1774861980000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requests (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "efdbfcee-e893-4e31-848b-13a586a278d6",
+    "Name": "MohseenRequests_ListPage",
+    "ModifiedOnUtc": "\/Date(1775125559000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests list page",
+    "DependsOn": []
+  }
+}

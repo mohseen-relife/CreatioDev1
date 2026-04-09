@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "042381a8-7478-423e-b18b-146d407b5d53",
+    "Name": "MohseenDesktop_rah0quy",
+    "ModifiedOnUtc": "\/Date(1775135140000)\/",
+    "Parent": {
+      "UId": "fbc98c89-0691-479c-bc25-59c11ac2365f",
+      "Name": "CentralAreaDesktopTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Request Desktop",
+    "DependsOn": []
+  }
+}

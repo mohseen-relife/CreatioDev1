@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "372931e6-ebde-41cf-b623-472f6ad466a0",
+    "Name": "MohseenExpensesMiniPage",
+    "ModifiedOnUtc": "\/Date(1773303079000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Expenses Mini Page",
+    "DependsOn": []
+  }
+}

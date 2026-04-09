@@ -1,0 +1,46 @@
+= MetaData.Schema.UId "042381a8-7478-423e-b18b-146d407b5d53"
+= MetaData.Schema.A2 "MohseenDesktop_rah0quy"
+= MetaData.Schema.A5 "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7"
++ MetaData.Schema.B2 {
+  "UId": "eb74b4c7-4223-8984-0206-e79ce0d15772",
+  "A2": "Button_icme3uo_caption",
+  "A3": "042381a8-7478-423e-b18b-146d407b5d53",
+  "A4": "042381a8-7478-423e-b18b-146d407b5d53",
+  "A5": "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7"
+}
++ MetaData.Schema.B2 {
+  "UId": "b199b4a3-90ec-798b-343c-241a9cb59071",
+  "A2": "Label_vemlyk0_caption",
+  "A3": "042381a8-7478-423e-b18b-146d407b5d53",
+  "A4": "042381a8-7478-423e-b18b-146d407b5d53",
+  "A5": "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7"
+}
++ MetaData.Schema.B2 {
+  "UId": "d7444cc5-5006-3b02-cb5f-24fd1176b45d",
+  "A2": "ChartWidget_d86n65d_series_0",
+  "A3": "042381a8-7478-423e-b18b-146d407b5d53",
+  "A4": "042381a8-7478-423e-b18b-146d407b5d53",
+  "A5": "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7"
+}
++ MetaData.Schema.B2 {
+  "UId": "d1edf55c-881c-9967-2d38-369d604a01d4",
+  "A2": "ChartWidget_d86n65d_title",
+  "A3": "042381a8-7478-423e-b18b-146d407b5d53",
+  "A4": "042381a8-7478-423e-b18b-146d407b5d53",
+  "A5": "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7"
+}
+~ MetaData.Schema.B2 [
+  "eb74b4c7-4223-8984-0206-e79ce0d15772",
+  "b199b4a3-90ec-798b-343c-241a9cb59071",
+  "d7444cc5-5006-3b02-cb5f-24fd1176b45d",
+  "d1edf55c-881c-9967-2d38-369d604a01d4"
+]
+= MetaData.Schema.B6 "d31e52bd-dbd6-40b4-b210-7a17dd9331c1"
+= MetaData.Schema.B8 "8.3.2.4199"
+= MetaData.Schema.HD1 "fbc98c89-0691-479c-bc25-59c11ac2365f"
+= MetaData.Schema.HD14 "Desktop"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:1,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

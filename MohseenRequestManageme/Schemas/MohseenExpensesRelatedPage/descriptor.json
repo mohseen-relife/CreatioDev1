@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5369f14f-8a80-44ed-a5eb-1704fa94c349",
+    "Name": "MohseenExpensesRelatedPage",
+    "ModifiedOnUtc": "\/Date(1773303267000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Expenses (Page settings)",
+    "DependsOn": []
+  }
+}

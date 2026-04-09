@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requests list page" />
+			<Item Name="LocalizableStrings.GaugeWidget_p6hnjgo_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.GaugeWidget_p6hnjgo_title.Value" Value="Completed Requests" />
+			<Item Name="LocalizableStrings.IndicatorWidget_5idvcc5_template.Value" Value=" {0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_5idvcc5_title.Value" Value="Open Request" />
+			<Item Name="LocalizableStrings.PDS_MohseenApplicant_Type.Value" Value="Applicant's Type" />
+			<Item Name="LocalizableStrings.PDS_MohseenExpensesMohseenRequst_Id_8ac4a10.Value" Value="Number of expenses" />
+			<Item Name="LocalizableStrings.PDS_MohseenExpensesMohseenRequst_MohseenAmount_o35vbfc.Value" Value="Expenses total" />
+			<Item Name="LocalizableStrings.QuickFilter_1kefkct_caption.Value" Value="Quick filter" />
+			<Item Name="LocalizableStrings.QuickFilter_1kefkct_config_caption.Value" Value="Created on" />
+			<Item Name="LocalizableStrings.QuickFilter_trk5dfv_caption.Value" Value="Quick filter" />
+			<Item Name="LocalizableStrings.QuickFilter_trk5dfv_config_caption.Value" Value="Applicant" />
+			<Item Name="LocalizableStrings.QuickFilter_xelutxq_caption.Value" Value="Quick filter" />
+			<Item Name="LocalizableStrings.QuickFilter_xelutxq_config_caption.Value" Value="unresolved" />
+		</Items>
+	</Group>
+</Resources>

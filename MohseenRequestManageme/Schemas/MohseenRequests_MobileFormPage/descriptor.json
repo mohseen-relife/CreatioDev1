@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c259870d-d440-4ede-b2a2-26334b581acb",
+    "Name": "MohseenRequests_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1773170604000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests mobile form page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "5369f14f-8a80-44ed-a5eb-1704fa94c349",
+      "A2": "MohseenExpensesRelatedPage",
+      "A5": "97b879b4-ad05-4d97-b2e5-cdf72e8b09f7",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "d31e52bd-dbd6-40b4-b210-7a17dd9331c1",
+      "B8": "8.3.2.4199",
+      "AD1": "c48d497b-b1a2-4a93-b43a-b847532232c5",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "d690d65e-9392-5fbc-46f1-ef10092afcda",
+      "PageSchemaUId": "372931e6-ebde-41cf-b623-472f6ad466a0",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}
