@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "96f46ab7-98a3-4b3d-9de1-94735ae23a2f",
+    "Name": "UsrDriveType",
+    "ModifiedOnUtc": "\/Date(1772541954000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Yatch drive type"
+  }
+}

@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/MohseenRequestManageme/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/MohseenRequestManageme/Data/**" />
+		<Compile Remove="$(PkgPath)/MohseenRequestManageme/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/MohseenRequestManageme/Schemas\**" />
+		<Compile Remove="$(PkgPath)/MohseenRequestManageme/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MohseenRequestManageme/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MohseenRequestManageme/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MohseenRequestManageme/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MohseenRequestManageme/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MohseenRequestManageme/Resources/**" />
+		<None Remove="$(PkgPath)/MohseenRequestManageme/Assemblies/**" />
+		<None Remove="$(PkgPath)/MohseenRequestManageme/Data/**" />
+		<None Remove="$(PkgPath)/MohseenRequestManageme/SqlScripts/**" />
+		<None Remove="$(PkgPath)/MohseenRequestManageme/Schemas/**" />
+		<None Remove="$(PkgPath)/MohseenRequestManageme/Resources/**" />
+  </ItemGroup>
+</Project>
